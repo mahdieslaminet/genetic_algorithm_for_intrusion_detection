@@ -15,7 +15,7 @@ To check the results and efficiency of the proposed system, we used 80% of the N
 The results have been calculated separately based on the three main parameters of accuracy, sensitivity and specificity with previously proposed algorithms.
 
 -----------------------------------------------------
-You can use the link of subfiles uploaded in Google Drive, such as Word and PowerPoint, articles and codes programmed in MATLAB software, and to understand how the project works, please watch the simulation video:
+You can use the link of subfiles uploaded in Google Drive, such as Word and PowerPoint, articles and code simulation in MATLAB software, and to understand how the project works, please watch the simulation video:
 
 https://drive.google.com/file/d/1dUpZQw_UUwLLg4DIf7viXf2C9x08obKb/view
 ------------------------------------------
