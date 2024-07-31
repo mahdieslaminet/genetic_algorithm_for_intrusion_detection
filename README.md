@@ -17,6 +17,13 @@ The results have been calculated separately based on the three main parameters o
 -----------------------------------------------------
 You can use the link of subfiles uploaded in Google Drive, such as Word and PowerPoint, articles and code simulation in MATLAB software, and to understand how the project works, please watch the simulation video:
 
-https://drive.google.com/file/d/1dUpZQw_UUwLLg4DIf7viXf2C9x08obKb/view
+[https://drive.google.com/file/d/1dUpZQw_UUwLLg4DIf7viXf2C9x08obKb/view](https://drive.google.com/file/d/1YKrVftKhd7EzqIfbjvVk2YYWa-T9SnIq/view)
+https://docs.google.com/document/d/1Hv6PB31QpfLKfmX6ULnhE9cMWi5O2bEH/edit?usp=sharing&ouid=105425124865173091424&rtpof=true&sd=true
+https://drive.google.com/file/d/10JQOMMZDsYC0ZpsGw7Lr1SdtFqRJ8ucC/view?usp=sharing
+https://docs.google.com/presentation/d/165mclGrQInFFkzSNalHUPbD_xHX17Y1G/edit?usp=sharing&ouid=105425124865173091424&rtpof=true&sd=true
+https://drive.google.com/file/d/1whEOu2Skzk6BP4gFNp2ENNpWVz5W4eE0/view?usp=sharing
+https://drive.google.com/file/d/1GI1PZ4q4stL0AVaywTQ6ka0lza8vLPJO/view?usp=sharing
+https://drive.google.com/file/d/1uQvT2T1EoiJQ9FhN9JIQi3L_cfAd92Z-/view?usp=sharing
+
 ------------------------------------------
 
