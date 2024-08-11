@@ -2,9 +2,9 @@
 
 # Genetic_algorithm_for_intrusion_detection
 
-[License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/blob/main/LICENSE)
-[GitHub issues](https://img.shields.io/github/issues/mahdieslaminet/genetic_algorithm_for_intrusion_detection)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/issues)
-[GitHub stars](https://img.shields.io/github/stars/mahdieslaminet/genetic_algorithm_for_intrusion_detection)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/mahdieslaminet/genetic_algorithm_for_intrusion_detection)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mahdieslaminet/genetic_algorithm_for_intrusion_detection)](https://github.com/mahdieslaminet/genetic_algorithm_for_intrusion_detection/stargazers)
 
 ## Overview
 The Intrusion Detection System (IDS) plays a crucial role in modern network security infrastructure by detecting and preventing unauthorized access, intrusions, and malicious activities within a network or system. This project focuses on enhancing IDS efficiency through the selection of dynamic features using a genetic algorithm based on non-dominant sorting and combining it with Fuzzy clustering.
