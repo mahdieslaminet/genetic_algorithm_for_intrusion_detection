@@ -18,15 +18,15 @@ The Intrusion Detection System (IDS) plays a crucial role in modern network secu
 To assess the effectiveness of our proposed system, we utilized 80% of the NSL-KDD dataset for training and 20% for testing. The evaluation was based on accuracy, sensitivity, and specificity metrics compared to previous algorithms.
 
 ## Resources
-- [Code Simulation in MATLAB](https://drive.google.com/file/d/1uQvT2T1EoiJQ9FhN9JIQi3L_cfAd92Z-/view)
-- [Article](https://drive.google.com/file/d/10JQOMMZDsYC0ZpsGw7Lr1SdtFqRJ8ucC/view)
-- [Simulation Video](https://drive.google.com/file/d/1dUpZQw_UUwLLg4DIf7viXf2C9x08obKb/view)
+- :page_with_curl: [Code Simulation in MATLAB](https://drive.google.com/file/d/1uQvT2T1EoiJQ9FhN9JIQi3L_cfAd92Z-/view)
+- :closed_book: [Article](https://drive.google.com/file/d/10JQOMMZDsYC0ZpsGw7Lr1SdtFqRJ8ucC/view)
+- :arrow_forward: [Simulation Video](https://drive.google.com/file/d/1YKrVftKhd7EzqIfbjvVk2YYWa-T9SnIq/view)
 
 For more details, refer to the following:
-- [Document](https://docs.google.com/document/d/1Hv6PB31QpfLKfmX6ULnhE9cMWi5O2bEH/edit?usp=sharing&amp;ouid=105425124865173091424&amp;rtpof=true&amp;sd=true)
-- [Presentation](https://docs.google.com/presentation/d/165mclGrQInFFkzSNalHUPbD_xHX17Y1G/edit?usp=sharing&amp;ouid=105425124865173091424&amp;rtpof=true&amp;sd=true)
+- :file_folder: [Document](https://docs.google.com/document/d/1Hv6PB31QpfLKfmX6ULnhE9cMWi5O2bEH/edit?usp=sharing&amp;ouid=105425124865173091424&amp;rtpof=true&amp;sd=true)
+- :video_camera: [Presentation](https://docs.google.com/presentation/d/165mclGrQInFFkzSNalHUPbD_xHX17Y1G/edit?usp=sharing&amp;ouid=105425124865173091424&amp;rtpof=true&amp;sd=true)
 
-Your support and feedback are much appreciated! 
+Your support and feedback are much appreciated! :octocat:
 
 
 
